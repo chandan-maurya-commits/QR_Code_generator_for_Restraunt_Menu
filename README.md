@@ -129,3 +129,17 @@ http://127.0.0.1:8000/
 - Backend Developer
 - Django Enthusiast
 - Aspiring Data Scientist
+
+## Screenshots
+
+### QR Code Generation Form
+
+![QR Form](screenshots/Home.png)
+
+Users enter the restaurant name and menu URL to generate a QR code.
+
+### Generated QR Code
+
+![QR Result](screenshots/result.png)
+
+The generated QR code can be downloaded and shared with customers.
